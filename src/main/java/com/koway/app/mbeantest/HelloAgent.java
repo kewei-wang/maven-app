@@ -28,6 +28,8 @@ public class HelloAgent {
         adaptor.start();
 
         System.out.println("start...");
+
+        System.out.println("what is it");
     }
 
 }
